@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import keygen from '../../crytographictest'
+import keygen from '../public/crytographictest'
 import fetch from "node-fetch";
 import Mailbox from './Mailbox.jsx';
 import * as openpgp from 'openpgp'
